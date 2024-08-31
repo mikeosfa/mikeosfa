@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikeosfa
-- 👀 I’m interested in ...VBA, Python, Azure, RPA
-- 🌱 I’m currently learning ...Python
+- 👀 I’m interested in ...VBA, Python, Azure, RPA, GCP, C#
+- 🌱 I’m currently learning ...React, GCP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
